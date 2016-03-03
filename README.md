@@ -18,4 +18,4 @@ Spacebar   - fire lasers
 B          - fire bomb  
 T          - fire heat seeking torpedo  
   
-The goal is to destroy the weapons platforms orbiting the sun while avoiding damage. Health can be recovered by picking up red cube health items, while armor can be increased by picking up silver cube armor items. Experience points are gained by defeating the weapons platforms, as well as for destroying the asteroids.
+The minions have taken to space to test a new spaceship for their master. The goal is to destroy the weapons platforms orbiting the planet while avoiding damage. Health can be recovered by picking up red cube health items, while armor can be increased by picking up silver cube armor items. Experience points are gained by defeating the weapons platforms, as well as for destroying the asteroids.
