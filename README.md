@@ -11,11 +11,11 @@ This project uses DirectXTK in order to load textures, as well as to manage the 
 See the Release section for a pre-built version for DirectX 11 and the Windows platform.
 
 ## Controls
-W,S,A,D    - ship movement
-R,F        - ship's up/down movement
-Arrow keys - ship rotation
-Spacebar   - fire lasers
-B          - fire bomb
-T          - fire heat seeking torpedo
-
+W,S,A,D    - ship movement  
+R,F        - ship's up/down movement  
+Arrow keys - ship rotation  
+Spacebar   - fire lasers  
+B          - fire bomb  
+T          - fire heat seeking torpedo  
+  
 The goal is to destroy the weapons platforms orbiting the sun while avoiding damage. Health can be recovered by picking up red cube health items, while armor can be increased by picking up silver cube armor items. Experience points are gained by defeating the weapons platforms, as well as for destroying the asteroids.
